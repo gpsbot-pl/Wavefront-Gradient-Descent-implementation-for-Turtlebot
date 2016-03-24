@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<robot name="floor">
+  <link name="odom">
+    <visual>
+      <geometry>
+        <mesh filename="package://assignment2/meshes/floor.dae"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>
